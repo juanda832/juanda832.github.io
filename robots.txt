@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juanda832.github.io/sitemap.xml
